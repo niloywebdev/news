@@ -1,7 +1,8 @@
 {
   "status": true,
   "theme_color": "#3498db",
-  "text": "Latest Update: Version 2.5 is now stable. Check our [Telegram] or [Download] the fix.",
+  "text": "📢 Today, 28th April — the birthday of Botnil’s Admin & Developer! 🎉
+Wishing you success, growth, and even bigger achievements ahead 🚀",
   "links": [
     {"label": "[Telegram]", "url": "https://t.me/..."},
     {"label": "[Download]", "url": "https://example.com/..."}
